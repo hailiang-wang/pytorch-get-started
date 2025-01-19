@@ -1,0 +1,7 @@
+torch==2.4.1+cu124
+torchaudio==2.4.1+cu124
+torchinfo==1.8.0
+torchvision==0.19.1+cu124
+torchviz==0.0.3
+pillow==10.3.0
+python-dotenv==1.0.1
