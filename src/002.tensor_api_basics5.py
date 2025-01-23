@@ -62,7 +62,7 @@ def main():
     print(points)
    
     print("*" * 8)
-    torch.set_default_device(device_gpu)  # current device is 0
+    torch.set_default_device(device_gpu)  # https://pytorch.org/docs/stable/generated/torch.set_default_device.html
     points_default = torch.tensor([[4.0, 1.0], [5.0, 3.0], [2.0, 1.0]])
     print(points_default)
 
