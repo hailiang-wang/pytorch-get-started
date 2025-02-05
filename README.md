@@ -30,3 +30,4 @@ python 001.using_the_multipretrained_weight_api.py
 - [x] [Tensor 基本操作5 device 管理，使用 GPU 设备 | PyTorch 深度学习实战](https://chatopera.blog.csdn.net/article/details/145314362)
 - [x] [计算图 Compute Graph 和自动求导 Auto | PyTorch 深度学习实战](https://blog.csdn.net/samurais/article/details/145319886)
 - [x] [使用线性回归模型逼近目标模型 | PyTorch 深度学习实战](https://blog.csdn.net/samurais/article/details/145436751)
+- [x] [机器学习之数学基础：线性代数、微积分、概率论 | PyTorch 深度学习实战](https://chatopera.blog.csdn.net/article/details/145457385)
