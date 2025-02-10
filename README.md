@@ -34,3 +34,4 @@ python 001.using_the_multipretrained_weight_api.py
 - [x] [深度学习里面的而优化函数 Adam，SGD，动量法，AdaGrad 等 | PyTorch 深度学习实战](https://chatopera.blog.csdn.net/article/details/145479603)
 - [x] [学习率调整策略 | PyTorch 深度学习实战](https://chatopera.blog.csdn.net/article/details/145488189)
 - [x] [CNN 卷积神经网络处理图片任务 | PyTorch 深度学习实战](https://blog.csdn.net/samurais/article/details/145493782)
+- [x] [使用 AlexNet 实现图片分类 | PyTorch 深度学习实战](https://blog.csdn.net/samurais/article/details/145541780)

@@ -36,6 +36,7 @@ _deps
 .env
 .fid
 _build
+data/
 
 dist/
 .*~
