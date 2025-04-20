@@ -157,6 +157,7 @@ test_loader = get_test_loader(data_dir= CIFAR10_data,
 class AlexNet(nn.Module):
     def __init__(self, num_classes=10):
         super(AlexNet, self).__init__()
+        # Conv2d, https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html
         self.layer1 = nn.Sequential(
             nn.Conv2d(3, 96, kernel_size=11, stride=4, padding=0),
             nn.BatchNorm2d(96),
