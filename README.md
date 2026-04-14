@@ -1,3 +1,9 @@
+Caution: All tutorials are moved into
+
+https://www.zhihu.com/column/c_2025523208175068308
+
+
+---
 # pytorch-get-started
 Get started with PyTorch
 
@@ -22,6 +28,8 @@ python 001.using_the_multipretrained_weight_api.py
 ```
 
 # Tutorials
+
+Old links - 
 
 ## Tensor Basics
 
